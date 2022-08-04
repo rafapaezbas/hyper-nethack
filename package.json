@@ -1,0 +1,22 @@
+{
+  "name": "hyper-nethack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hyper-nethack": "index.mjs"
+  },
+  "scripts": {
+    "fix": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-hyperproxy": "^0.0.3"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
