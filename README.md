@@ -10,26 +10,12 @@ hyper-nethack
 Ready to play!
 
 ``` bash
-Aloha rpaezbas, the human Tourist, welcome back to NetHack!
-
-
-
-
-
-
-
-
-
-
-
-
 
          -+-------
          |@...d..|
          |...[...|
          |..$."..|
          ---------
-
 
 
 Hyena2 the Rambler          St:10 Dx:10 Co:16 In:14 Wi:7 Ch:18  Neutral S:0
