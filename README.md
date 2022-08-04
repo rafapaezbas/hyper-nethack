@@ -7,6 +7,8 @@ npm install -g hyper-nethack
 hyper-nethack
 ``` 
 
+Ready to play!
+
 ``` bash
 Aloha rpaezbas, the human Tourist, welcome back to NetHack!
 
