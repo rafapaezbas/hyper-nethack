@@ -4,7 +4,7 @@ Play Nethack using [Holepunch](https://holepunch.to/) DHT.
 
 ``` bash
 npm install -g hyper-nh
-hyper-nethack
+hyper-nh
 ``` 
 
 Ready to play!
