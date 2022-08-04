@@ -1,11 +1,13 @@
 # Hyper-Nethack
 
-Play Nethack using (Holepunch)[https://holepunch.to/] DHT.
+Play Nethack using [Holepunch](https://holepunch.to/) DHT.
 
 ``` bash
 npm install -g hyper-nethack
 hyper-nethack
+``` 
 
+``` bash
 Aloha rpaezbas, the human Tourist, welcome back to NetHack!
 
 
